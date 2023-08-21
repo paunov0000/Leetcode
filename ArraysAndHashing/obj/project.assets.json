@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mitko\\source\\repos\\Problems\\ArraysAndHashing\\ArraysAndHashing.csproj",
+      "projectUniqueName": "C:\\Users\\mitko\\Documents\\important\\Leetcode\\ArraysAndHashing\\ArraysAndHashing.csproj",
       "projectName": "ArraysAndHashing",
-      "projectPath": "C:\\Users\\mitko\\source\\repos\\Problems\\ArraysAndHashing\\ArraysAndHashing.csproj",
+      "projectPath": "C:\\Users\\mitko\\Documents\\important\\Leetcode\\ArraysAndHashing\\ArraysAndHashing.csproj",
       "packagesPath": "C:\\Users\\mitko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitko\\source\\repos\\Problems\\ArraysAndHashing\\obj\\",
+      "outputPath": "C:\\Users\\mitko\\Documents\\important\\Leetcode\\ArraysAndHashing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mitko\\AppData\\Roaming\\NuGet\\NuGet.Config",

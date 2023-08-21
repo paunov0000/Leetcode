@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DeiK4IaFyXwPC5llx57HQX+2qQAc6YmpD46gLykwLNL+dhHvOFlhpm7ZERtlaixtM7YIetWhwsDOQMReREhRrg==",
+  "dgSpecHash": "kDAVkoE0E/MPKosVvWn0DYlLa2AfNxgdozuscRXSwcT9Sw47gsOeoswzPwPv39V967H/rScQXfH0IKTb4dIvXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mitko\\source\\repos\\Problems\\ArraysAndHashing\\ArraysAndHashing.csproj",
+  "projectFilePath": "C:\\Users\\mitko\\Documents\\important\\Leetcode\\ArraysAndHashing\\ArraysAndHashing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

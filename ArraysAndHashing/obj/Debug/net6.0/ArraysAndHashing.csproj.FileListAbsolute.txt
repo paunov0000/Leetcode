@@ -12,3 +12,17 @@ C:\Users\mitko\source\repos\Problems\ArraysAndHashing\obj\Debug\net6.0\refint\Ar
 C:\Users\mitko\source\repos\Problems\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.pdb
 C:\Users\mitko\source\repos\Problems\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.genruntimeconfig.cache
 C:\Users\mitko\source\repos\Problems\ArraysAndHashing\obj\Debug\net6.0\ref\ArraysAndHashing.dll
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.AssemblyInfoInputs.cache
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.AssemblyInfo.cs
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.csproj.CoreCompileInputs.cache
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.dll
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\refint\ArraysAndHashing.dll
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.pdb
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\bin\Debug\net6.0\ArraysAndHashing.exe
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\bin\Debug\net6.0\ArraysAndHashing.deps.json
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\bin\Debug\net6.0\ArraysAndHashing.runtimeconfig.json
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\bin\Debug\net6.0\ArraysAndHashing.dll
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\bin\Debug\net6.0\ArraysAndHashing.pdb
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ArraysAndHashing.genruntimeconfig.cache
+C:\Users\mitko\Documents\important\Leetcode\ArraysAndHashing\obj\Debug\net6.0\ref\ArraysAndHashing.dll
